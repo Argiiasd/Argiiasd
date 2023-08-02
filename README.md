@@ -2,7 +2,7 @@
 
 ## Acerca de mí 🚀
 
-Disfruto mucho aprender y conocer gente nueva. Trabajar en equipo es algo que me apasiona, al igual que estar rodeado de gatos. Siempre me emociona iniciar un nuevo curso, tener una oportunidad, planificar un viaje o sumergirme en un juego. Constantemente busco vivir experiencias diferentes, actualizarme y superarme. Mi objetivo es aplicar mis conocimientos y seguir creciendo como desarrollador. Si estás interesado en colaborar, no dudes en contactarme.
+Disfruto mucho aprender y conocer gente nueva. Amo trabajar en equipo, casi tanto como a mis gatas. Siempre me emociona iniciar un nuevo curso, una oportunidad, planificar un viaje o sumergirme en un juego. Constantemente busco vivir experiencias diferentes, actualizarme y superarme. Mi objetivo es aplicar mis conocimientos y seguir creciendo como desarrollador. 
 
 <p align="center">
     <img width="600" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Dinosaur Game gif">
