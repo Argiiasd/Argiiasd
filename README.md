@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="800" src="https://c4.wallpaperflare.com/wallpaper/868/284/966/landscape-mountains-sunset-snow-wallpaper-preview.jpg"/>
+    <img width="1000" src="https://c4.wallpaperflare.com/wallpaper/868/284/966/landscape-mountains-sunset-snow-wallpaper-preview.jpg"/>
 </div>
 
 # ¡Hola, soy Mateo! 👋
