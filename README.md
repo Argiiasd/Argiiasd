@@ -24,7 +24,7 @@ Disfruto mucho aprender y conocer gente nueva. Trabajar en equipo es algo que me
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Argiiasd&show_icons=true&theme=great-gatsby)](https://github.com/Argiiasd?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Argiiasd)](https://github.com/Argiiasd/github-readme-stats)
 
 </div>
 
