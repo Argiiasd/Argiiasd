@@ -22,6 +22,12 @@ Disfruto mucho aprender y conocer gente nueva. Trabajar en equipo es algo que me
     <code><img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" /></code>
 </div>
 
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Argiiasd&show_icons=true&theme=great-gatsby)](https://github.com/Argiiasd?tab=repositories)
+
+</div>
+
 ## Contacto 📫
 
 Si quieres ponerte en contacto conmigo, puedes hacerlo a través de:
