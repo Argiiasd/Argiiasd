@@ -28,11 +28,11 @@ Disfruto mucho aprender y conocer gente nueva. Amo trabajar en equipo, casi tant
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Argiiasd)](https://github.com/Argiiasd/github-readme-stats)
 
-</div>
+</div> -->
 
 ## Contacto 📫
 
